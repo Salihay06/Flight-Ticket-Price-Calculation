@@ -30,7 +30,7 @@ if(choose == 2){
     normalPrice=(normalPrice-discountedChoose)*2;
 } System.out.println("Ticket Amount:"+normalPrice +"$" );
 }else {
-    System.out.println("d<vbfngmhgömnfdf");
+    System.out.println("The options you entered are incorrect,please enter again");
 }
 
 
